@@ -1,0 +1,5 @@
+com\example\inventario\Producto.class
+com\example\inventario\ProductoController.class
+com\example\inventario\InventarioApplication.class
+com\example\inventario\ProductoService.class
+com\example\inventario\ProductoRepository.class

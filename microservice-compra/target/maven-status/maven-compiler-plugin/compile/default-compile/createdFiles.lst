@@ -1,0 +1,5 @@
+com\example\compra\CompraApplication.class
+com\example\compra\Compra.class
+com\example\compra\CompraRepository.class
+com\example\compra\CompraService.class
+com\example\compra\CompraController.class
